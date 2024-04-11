@@ -1,0 +1,58 @@
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-width: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 20px;
+    padding: 20px;
+    width: 20px;
+
+}
+.container{
+    background-color: rgba(21, 22, 21, 0.267)
+    
+
+}
+.container .tabs{  
+}
+    .tabs{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .tabs button{background-size: cover;
+    
+        padding: 10px 10px;
+        border: e;
+        outline: none;
+       
+        cursor: pointer;
+        margin: 20px;
+        font-size: 15px;
+        min-width: 10px;
+
+
+    }
+    #cadastro-form button{background-color: blue;
+      padding: 10px 10px;
+      border-radius: 10px;
+      border: blueviolet;
+      color: aliceblue;
+      padding: 15;
+      
+    }
